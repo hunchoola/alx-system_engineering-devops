@@ -1,2 +1,2 @@
 #!/bin/bash
-chown-change_owner_and_group
+chown -hR vincent staff .
